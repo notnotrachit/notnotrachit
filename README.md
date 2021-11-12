@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Re-Dcrypt Discord Bot](https://github.com/rachit1601/rachit1601/blob/main/github.com/rachit1601/Re-Dcrypt-Bot)
 
-- 📫 How to reach me **rachitkhurana40@gmail.com**
+- 📫 How to reach me **hey@rachitkhurana.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
