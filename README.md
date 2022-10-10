@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Re-Dcrypt Discord Bot](https://github.com/rachit1601/rachit1601/blob/main/github.com/rachit1601/Re-Dcrypt-Bot)
 
-- 📫 How to reach me **hey@rachitkhurana.xyz**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dilutewater" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rachitkhurana" height="30" width="40" /></a>
