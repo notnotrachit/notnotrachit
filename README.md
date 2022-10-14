@@ -3,8 +3,6 @@
 <h3 align="center">A student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit1601&label=Profile%20views&color=0e75b6&style=flat" alt="rachit1601" /> </p>
-
-- 🔭 I’m currently working on [Trivia Quiz (tkinter)](https://github.com/rachit1601/Python-Project) & [TriviaQuizzz (Django)](https://github.com/rachit1601/triviaquiz)
  
 - 🌱 I’m currently learning **Python,Html,CSS,Javascript, Django**
 
