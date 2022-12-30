@@ -19,5 +19,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachit1601&show_icons=true&locale=en&layout=default&theme=algolia&hide_border" alt="rachit1601" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notnotrachit&show_icons=true&locale=en&layout=default&theme=algolia&hide_border" alt="notnotrachit" /></p>
 
