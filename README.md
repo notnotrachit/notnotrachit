@@ -2,7 +2,7 @@
 <h3 align="center">a.k.a. DiluteWater</h43>
 <h3 align="center">A student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit1601&label=Profile%20views&color=0e75b6&style=flat" alt="rachit1601" /> </p>
+<p align="left">  <img src="https://visitcount.itsvg.in/api?id=notnotrachit&label=Profile%20Views&color=0&icon=1&pretty=true" /> </p>
  
 - 🌱 I’m currently learning **Python,Html,CSS,Javascript, Django**
 
