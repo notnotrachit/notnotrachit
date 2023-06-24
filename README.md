@@ -89,12 +89,4 @@
 
 ###
 
-<h2 align="left">Blogs</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=dilutewater&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
-###
